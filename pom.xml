@@ -20,8 +20,10 @@
     <module>deployment/embedded-spring-rest</module>
     <module>deployment/ejb-pa</module>
     <module>deployment/spring-boot</module>
+    
 <!--     <module>modeler/custom-task-simple</module> -->
 <!--     <module>modeler/custom-task-advanced</module> -->
+    
     <module>multi-tenancy/schema-isolation</module>
     <module>multi-tenancy/tenant-identifier-embedded</module>
     <module>multi-tenancy/tenant-identifier-shared</module>
